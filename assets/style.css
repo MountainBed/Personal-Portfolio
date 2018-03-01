@@ -59,3 +59,16 @@ p {
   width: 50px;
   padding-right: 15px;
 }
+
+.project {
+  width: 1000px;
+  display: flex;
+  justify-content: space-around;
+  padding: 10px;
+}
+
+.project-image {
+  width: 500px;
+  border: 5px solid indianred;
+}
+
